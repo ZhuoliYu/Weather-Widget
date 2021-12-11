@@ -1,7 +1,7 @@
 {
   "name": "weather-widget",
   "version": "1.0.0",
-  "description": "SD105 weather widget",
+  "description": "SD105-assignment1-weather widget",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,9 +12,6 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ZhuoliYu/Weather-Widget"
-  },
   "homepage": "https://github.com/ZhuoliYu/Weather-Widget",
   "devDependencies": {
     "gulp": "^4.0.2"
